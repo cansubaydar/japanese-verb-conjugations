@@ -4,5 +4,5 @@ This project is created to improve my HTML, CSS (Flex and Grid) and JavaScript s
 
 In this project:
  - Created an accordion and added the tables within it
- - Used the [Ruby Annotation] (https://www.w3.org/TR/2001/REC-ruby-20010531/Overview.html.utf-8) for Japanese words
+ - Used the [Ruby Annotation](https://www.w3.org/TR/2001/REC-ruby-20010531/Overview.html.utf-8) for Japanese words
  - Added a scroll back to the top button and made it interactive with JavaScript DOM events
