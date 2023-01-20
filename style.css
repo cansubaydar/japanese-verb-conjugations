@@ -94,7 +94,7 @@ a {
     position: relative;
     background: transparent;
     color: var(--clr-primary);
-    padding: 0.5rem 2rem 0 0; 
+    padding-top: 0.5rem;  
     border-bottom: 1px solid #FFFFFF6e;
     cursor: pointer;
 }
@@ -113,7 +113,7 @@ a {
 
 .group-header h2 {
     font: 400 1rem var(--font-secondary);
-    margin: 0.3rem 0;
+    margin: 0.3rem 1.5rem 0.3rem 0;
 }
 
 .group-header h2 ruby {
