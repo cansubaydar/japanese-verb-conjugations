@@ -94,7 +94,7 @@ a {
     position: relative;
     background: transparent;
     color: var(--clr-primary);
-    padding: 0.5rem 1.5rem 0 0; 
+    padding: 0.5rem 2rem 0 0; 
     border-bottom: 1px solid #FFFFFF6e;
     cursor: pointer;
 }
@@ -103,10 +103,11 @@ a {
     content: "\25BE";
     position: absolute;
     top: 1.2rem;
-    right: 0.5rem;
+    right: 0;
 }
 
 .group-header.active::after {
+    content: "\25BE";
     transform: rotate(-180deg);
 }
 
@@ -228,6 +229,7 @@ a {
     outline: none;
     border: none;
     background: transparent;
+    color: var(--clr-secondary);
     cursor: pointer;
     z-index: 10;
     animation-duration: 1.5s;
