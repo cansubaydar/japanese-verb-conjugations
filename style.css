@@ -104,6 +104,7 @@ a {
     position: absolute;
     top: 1.2rem;
     right: 0;
+    font-size: 1rem;
 }
 
 .group-header.active::after {
